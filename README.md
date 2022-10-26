@@ -11,14 +11,18 @@ The purpose of analyzing data on this kickstarter campaigns is to help Louise kn
 ## Analysis & Challenges
 ![Theater_Outcomes_vs_Launch](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
+The Theater Outcomes vs Launch line chart showed the outcomes based on a function of time.
+
 ![Outcomes_vs_Goals](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Outcomes_vs_Goals.png)
+
+The Outcomes vs Goals line chart visualized the data of the outcomes based on pledge goals.
 
 [Kickstarter_Challenge](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Kickstarter_Challenge.xlsx)
 
 ## Results
 
-2 conclusions about Theater Outcomes by Launch Date
+The Theater Outcomes by Launch Date showed a fu
 
-The overall conclusion from the outcomes based on goals 
+From analyzing data on the outcomes based on goals, it can be concluded there tends to be a negative correlation between percentage successful and percentage failed. As the goal amount increases, the overall percentage successful decreases while the overall percentage failed increases.
 
-The main limitation to this data sets are the outliers
+The main limitation to this data set is the lack of further trend analysis.

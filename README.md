@@ -21,6 +21,6 @@ I overall
 2 conclusions about Theater Outcomes by Launch Date
 
 The overall conclusion from the outcomes based on goals 
----
+
 The main limitation to this data sets are the outliers.
 ---

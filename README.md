@@ -4,11 +4,11 @@
 ![Outcomes_vs_Goals](/assets/images/Outcomes_vs_Goals.png)
 ---
 [Kickstarter_Challenge](path/to/Kickstarter_Challenge.xlxs)
-##Overview of Project
+###Overview of Project
 ---
 The purpose of analyzing data on this kickstarter campaigns
 ---
-##Analysis and Challenges
+###Analysis and Challenges
 ---
 ###Results
 ---

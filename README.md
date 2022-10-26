@@ -6,7 +6,7 @@
 ### Overview of Project
 
 The purpose of analyzing data on this kickstarter campaigns is to help Louise know how different campaigns fared in relation to their launch dates and their funding goals.
----
+
 ### Analysis and Challenges
 ![Theater_Outcomes_vs_Launch](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 

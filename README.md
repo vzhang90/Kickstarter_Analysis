@@ -1,7 +1,9 @@
 # **An Analysis of Kickstarter Campaigns**
 [Kickstarter_Challenge](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Kickstarter_Challenge.xlsx)
-[Compressed_Kickstarter_Challenge](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Kickstarter_Challenge.zip)
 ---
+[Compressed_Kickstarter_Challenge](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Kickstarter_Challenge.zip)
+
+
 ## Overview of Project
 
 The purpose of analyzing data on this kickstarter campaigns is to help Louise know how different campaigns fared in relation to their launch dates and their funding goals.

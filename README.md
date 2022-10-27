@@ -12,6 +12,7 @@ This project's main purpose is to analyze the data with Excel to organize, sort,
 
 ## Analysis & Challenges
 To help Louise better understand campaigns from start to finish, the outcomes of all the crowdfunding plays are visualized as a function of time in a line chart below:
+
 ![Theater_Outcomes_vs_Launch](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 

@@ -9,7 +9,7 @@ Louise is an up-and-coming playwright, whose recent first-ever crowdfunding camp
 This project's main purpose is to analyze the data with Excel to organize, sort, and analyze crowdfunding data to determine whether there are specific factors that make a project's campaign successful.
 
 ## Analysis & Challenges
-**Theater Outcomes vs Launch** visualized in a marked line chart from a Pivot Table generated from "Sheet1" in the Excel data set [Kickstarter_Challenge](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Kickstarter_Challenge.xlsx):
+***Theater Outcomes vs Launch*** visualized in a marked line chart from a Pivot Table generated from "Sheet1" in the Excel data set [Kickstarter_Challenge](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Kickstarter_Challenge.xlsx):
 
 ![Theater_Outcomes_vs_Launch](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
@@ -19,7 +19,7 @@ This project's main purpose is to analyze the data with Excel to organize, sort,
 2. Campaign outcomes sorted descending order so "successful" is first
 3. Line chart created showing number of successful, failed, or canceled projects by months
 ---
-**The Outcomes vs Goals** line chart showing the outcomes based on pledge goals:
+***The Outcomes vs Goals*** line chart showing the outcomes based on pledge goals:
 ![Outcomes_vs_Goals](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Outcomes_vs_Goals.png)
 
 1. COUNTIFS() function populated the "Number Successful," "Number Failed," and "Number Canceled" columns by:
@@ -31,7 +31,7 @@ This project's main purpose is to analyze the data with Excel to organize, sort,
 3. Percentage calculated of successful, failed and calceled projects for each row from "Total Projects," "Number Successful," "Number Failed," and "Number Canceled" columns
 4. Line chart created visualizing the relationship between the goal-amount ranges on the x-axis and the percentage of successful, failed, or canceled projects on the y-axis.
 
-***Difficulties encountered with analyzing Louise's requested data may be challenging in the conversion of the Unix Timestampes in columns Deadline and Launched_at columns in Sheet1 to a readable format.***
+*Difficulties encountered with analyzing Louise's requested data may be challenging in the conversion of the Unix Timestampes in columns Deadline and Launched_at columns in Sheet1 to a readable format.*
 
 ## Results
 

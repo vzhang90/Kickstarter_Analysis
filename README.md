@@ -20,7 +20,7 @@ This project's main purpose is to analyze the Kickstarter Campaign data in the a
 2. Campaign outcomes sorted descending order so "successful" is first
 3. Line chart created showing number of successful, failed, or canceled projects by months
 
-*Difficulties encountered with analyzing Louise's requested data may be challenging in the conversion of the Unix Timestampes in columns Deadline and Launched_at columns in Sheet1 to a readable format. The "Launch_At" and "Deadline" columns are represented in a Unix timstamp that much be converted into a readable format first before utilizing the `Years()` function.*
+*Difficulties encountered with analyzing Louise's requested data may be challenging in the conversion of the Unix timestampes in columns Deadline and Launched_at columns in Sheet1 to a readable format. The "Launch_At" and "Deadline" columns are represented in a Unix timestamp that much be converted into a readable format first before utilizing the `Years()` function.*
 
 ---
 ***The Outcomes vs Goals*** line chart showing the outcomes based on pledge goals:

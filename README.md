@@ -11,21 +11,20 @@ Louise is an up-and-coming playwright, whose recent first crowdfunding campaign 
 This project's main purpose is to analyze the data with Excel to organize, sort, and analyze crowdfunding data to determine whether there are specific factors that make a project's campaign successful.
 
 ## Analysis & Challenges
-To help Louise better understand campaigns from start to finish, the outcomes of the Plays are visualized over a function of time below.
+To help Louise better understand campaigns from start to finish, the outcomes of the Plays are visualized as a function of time in the pivot line chart below:
 ![Theater_Outcomes_vs_Launch](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
-The Theater Outcomes vs Launch line chart showed the outcomes based on a function of time.
-
+The Theater Outcomes vs Launch line chart showed the outcomes based on a function of time:
+The Outcomes vs Goals line chart visualized the data of the outcomes based on pledge goals.
 ![Outcomes_vs_Goals](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Outcomes_vs_Goals.png)
 
-The Outcomes vs Goals line chart visualized the data of the outcomes based on pledge goals.
 
 [Kickstarter_Challenge](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Kickstarter_Challenge.xlsx)
 
 ## Results
 
-The Theater Outcomes by Launch Date showed a fu
+Analyzing the Kickstarter data by Theater Outcomes based on Launch Date worksheet indicated an increase in successful in May and June. The 
 
 From analyzing data on the outcomes based on goals, it can be concluded there tends to be a negative correlation between percentage successful and percentage failed. As the goal amount increases, the overall percentage successful decreases while the overall percentage failed increases.
 
-The main limitation to this data set is the lack of further trend analysis.
+Looking forward and further, this data set can be limited in the lack of further trend analysis.

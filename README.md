@@ -30,4 +30,4 @@ Analyzing the Kickstarter data by Theater Outcomes based on Launch Date workshee
 
 From analyzing data on the outcomes based on goals, it can be concluded there tends to be a negative correlation between percentage successful and percentage failed. As the goal amount increases, the overall percentage successful decreases while the overall percentage failed increases.
 
-Looking forward and further, this data set can be limited in the lack of further trend analysis.
+Throughout analyzing this Kickstarter_Analysis.x, this data set can be challenging in its lack of further trend analysis.

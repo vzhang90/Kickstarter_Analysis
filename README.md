@@ -20,7 +20,7 @@ A pivot table was created in the worksheet titled *Theater Outcoes by Launch Dat
     -"Parent Category" is filtered on "theater"
     
 
-***The Outcomes vs Goals*** line chart visualized the data of the outcomes based on pledge goals.
+***The Outcomes vs Goals*** line chart visualized the data of the outcomes based on pledge goals:
 ![Outcomes_vs_Goals](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Outcomes_vs_Goals.png)
 
 
@@ -32,6 +32,6 @@ To help Louise better understand campaigns from start to finish, the visualized 
 
 To closer look at how campaign length might be might be tied to its outcome.
 
-From analyzing data on the outcomes based on goals, it can be concluded there tends to be a negative correlation between percentage successful and percentage failed. As the goal amount increases, the overall percentage successful decreases while the overall percentage failed increases.
+From analyzing data on the Outcomes based on goals, it can be concluded there tends to be a negative correlation between percentage successful and percentage failed. As the goal amount increases, the overall percentage successful decreases while the overall percentage failed increases.
 
 Throughout analyzing this Kickstarter_Analysis.xlsx, this data set can be challenging in its lack of further trend analysis. With the two month surge in Successful Theater Outcomes by Launch Date, it would be highly recommended to further analyze the correlation between Outcomes and Years with T-tests. Visually, it would be highly recommended to included a correlation co-efficient and trend line associated with each legend. 

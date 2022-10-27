@@ -30,8 +30,7 @@ This project's main purpose is to analyze the data with Excel to organize, sort,
 2. SUM() function to populate the "Total Projects" column with the number of successful, failed, and canceled projects for each row
 3. Percentage calculated of successful, failed and calceled projects for each row from "Total Projects," "Number Successful," "Number Failed," and "Number Canceled" columns
 4. Line chart created visualizing the relationship between the goal-amount ranges on the x-axis and the percentage of successful, failed, or canceled projects on the y-axis.
-
-
+---
 Difficulties encountered with analyzing Louise's requested data may be challenging in the conversion of the Unix Timestampes in columns Deadline and Launched_at columns in Sheet1 to a readable format.
 
 ## Results

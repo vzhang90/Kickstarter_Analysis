@@ -16,7 +16,7 @@ To help Louise better understand campaigns from start to finish, the outcomes of
 ![Theater_Outcomes_vs_Launch](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 
-The Outcomes vs Goals line chart visualized the data of the outcomes based on pledge goals.
+***The Outcomes vs Goals*** line chart visualized the data of the outcomes based on pledge goals.
 ![Outcomes_vs_Goals](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Outcomes_vs_Goals.png)
 
 

@@ -14,8 +14,8 @@ This project's main purpose is to analyze the data with Excel to organize, sort,
 ![Theater_Outcomes_vs_Launch](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 1. A pivot table was initially created in the worksheet titled *Theater Outcoes by Launch Date*
-- filters on "Parent Category" and "Years"
-    -"Parent Category" filtered on "theater" 
+    - filters on "Parent Category" and "Years"
+    - "Parent Category" filtered on "theater" 
 2. Campaign outcomes sorted descending order so "successful" is first
 3. Line chart created showing number of successful, failed, or canceled projects by months
 

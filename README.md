@@ -20,21 +20,21 @@ This project's main purpose is to analyze the Kickstarter Campaign data in the a
 2. Campaign outcomes sorted descending order so "successful" is first
 3. Line chart created showing number of successful, failed, or canceled projects by months
 
-*Difficulties encountered with analyzing Louise's requested data may be challenging in the conversion of the Unix Timestampes in columns Deadline and Launched_at columns in Sheet1 to a readable format. The "Launch_At" and "Deadline" columns are represented in a Unix timstamp that much be converted into a readable format first before utilizing the Years() function.*
+*Difficulties encountered with analyzing Louise's requested data may be challenging in the conversion of the Unix Timestampes in columns Deadline and Launched_at columns in Sheet1 to a readable format. The "Launch_At" and "Deadline" columns are represented in a Unix timstamp that much be converted into a readable format first before utilizing the 'Years()' function.*
 
 ---
 ***The Outcomes vs Goals*** line chart showing the outcomes based on pledge goals:
 ![Outcomes_vs_Goals](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Outcomes_vs_Goals.png)
 
-1. COUNTIFS() function populated the "Number Successful," "Number Failed," and "Number Canceled" columns by:
+1. 'COUNTIFS()' function populated the "Number Successful," "Number Failed," and "Number Canceled" columns by:
       - filtering on the [Kickstarter_Challenge](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Kickstarter_Challenge.xlsx) "outcome" column
       - "goal" amount column using ranges created from Column A
      - "subcategory" column using "plays" as criteria
-2. SUM() function to populate the "Total Projects" column with the number of successful, failed, and canceled projects for each row
+2. 'SUM()' function to populate the "Total Projects" column with the number of successful, failed, and canceled projects for each row
 3. Percentage calculated of successful, failed and calceled projects for each row from "Total Projects," "Number Successful," "Number Failed," and "Number Canceled" columns
 4. Line chart created visualizing the relationship between the goal-amount ranges on the x-axis and the percentage of successful, failed, or canceled projects on the y-axis.
 
-*Difficulties encountered with analyzing Louise's requested data may be challenging in the COUNTIFS() function.*
+*Difficulties encountered with analyzing Louise's requested data may be challenging in the 'COUNTIFS()' function.*
 
 ## Results
 

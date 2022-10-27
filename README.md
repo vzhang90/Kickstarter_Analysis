@@ -28,8 +28,7 @@ Difficulties encountered with analyzing Louise's requested data may be challengi
 
 ## Results
 
-To help Louise better understand campaigns from start to finish, the outcomes of all the crowdfunding plays are visualized as a function of time in a line chart.
-From analyzing the Kickstarter data with Theater Outcomes based on Launch Date, the line chart shows an increase in successful number of U.S. Theater crowdfudning campaigns in the months May and June.  
+To help Louise better understand campaigns from start to finish, the visualized outcomes of all the crowdfunding plays in graphical representations are generated through a pivot table so that she can benefit from additional visualtion of the data so she can see the outcomes of all categories. From analyzing the Kickstarter data with Theater Outcomes based on Launch Date, the line chart shows an increase in successful number of U.S. Theater crowdfudning campaigns in the months May and June.  
 
 To closer look at how campaign length might be might be tied to its outcome.
 

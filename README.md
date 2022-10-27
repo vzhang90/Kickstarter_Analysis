@@ -11,7 +11,7 @@ Louise is an up-and-coming playwright, whose recent first-ever crowdfunding camp
 This project's main purpose is to analyze the data with Excel to organize, sort, and analyze crowdfunding data to determine whether there are specific factors that make a project's campaign successful.
 
 ## Analysis & Challenges
-***Theater Outcomes vs Launch*** visualuzed in a line chart below:
+***Theater Outcomes vs Launch*** visualized in a line chart from generated Pivot Table:
 
 ![Theater_Outcomes_vs_Launch](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
@@ -24,7 +24,7 @@ A pivot table was created in the worksheet titled *Theater Outcoes by Launch Dat
 ![Outcomes_vs_Goals](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Outcomes_vs_Goals.png)
 
 
-Difficulties encountered with analyzing Louise's requested data is 
+Difficulties encountered with analyzing Louise's requested data may be challenging in the conversion of the Unix Timestampes in columns Deadline and Launched_at columns in Sheet1 to a readable format.
 
 ## Results
 
@@ -35,4 +35,4 @@ To closer look at how campaign length might be might be tied to its outcome.
 
 From analyzing data on the outcomes based on goals, it can be concluded there tends to be a negative correlation between percentage successful and percentage failed. As the goal amount increases, the overall percentage successful decreases while the overall percentage failed increases.
 
-Throughout analyzing this Kickstarter_Analysis.xlsx, this data set can be challenging in its lack of further trend analysis. With the two month surge in Successful Theater Outcomes by Launch Date, it would be highly recommended to further analyze the correlation between Outcomes and Years with T-tests. Visually, it would be highly recommended to included a correlation co-efficient and trend line associated with each legend.
+Throughout analyzing this Kickstarter_Analysis.xlsx, this data set can be challenging in its lack of further trend analysis. With the two month surge in Successful Theater Outcomes by Launch Date, it would be highly recommended to further analyze the correlation between Outcomes and Years with T-tests. Visually, it would be highly recommended to included a correlation co-efficient and trend line associated with each legend. 

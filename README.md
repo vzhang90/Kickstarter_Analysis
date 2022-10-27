@@ -15,6 +15,10 @@ To help Louise better understand campaigns from start to finish, the outcomes of
 
 ![Theater_Outcomes_vs_Launch](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
+A pivot table was created in the worksheet titled *Theater Outcoes by Launch Date*
+  -filters on "Parent Category" and "Years"
+    -"Parent Category" is filtered on "theater"
+    
 
 ***The Outcomes vs Goals*** line chart visualized the data of the outcomes based on pledge goals.
 ![Outcomes_vs_Goals](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Outcomes_vs_Goals.png)
@@ -24,6 +28,7 @@ Difficulties encountered with analyzing Louise's requested data is
 
 ## Results
 
+To help Louise better understand campaigns from start to finish, the outcomes of all the crowdfunding plays are visualized as a function of time in a line chart
 Analyzing the Kickstarter data by Theater Outcomes based on Launch Date worksheet indicated an increase in successful number of U.S. Theater crowdfudning campaigns in May and June. The 
 
 From analyzing data on the outcomes based on goals, it can be concluded there tends to be a negative correlation between percentage successful and percentage failed. As the goal amount increases, the overall percentage successful decreases while the overall percentage failed increases.

@@ -22,7 +22,7 @@ This project's main purpose is to analyze the Kickstarter Campaign data in the a
 
 *Difficulties encountered with analyzing Louise's requested data may be challenging in the conversion of the Unix Timestampes in columns Deadline and Launched_at columns in Sheet1 to a readable format
     - Years() function in new column from data extracted from "Data Created Conversion" Column
-        - Unix timestampe*
+        - Unix timestamps*
 
 ---
 ***The Outcomes vs Goals*** line chart showing the outcomes based on pledge goals:

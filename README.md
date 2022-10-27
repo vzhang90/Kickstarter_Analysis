@@ -1,7 +1,5 @@
 # **An Analysis of Kickstarter Campaigns**
 
-[Kickstarter_Challenge](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Kickstarter_Challenge.xlsx)
-
 [Compressed_Kickstarter_Challenge](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Kickstarter_Challenge.zip)
 
 ## Overview of Project
@@ -11,7 +9,7 @@ Louise is an up-and-coming playwright, whose recent first-ever crowdfunding camp
 This project's main purpose is to analyze the data with Excel to organize, sort, and analyze crowdfunding data to determine whether there are specific factors that make a project's campaign successful.
 
 ## Analysis & Challenges
-***Theater Outcomes vs Launch*** visualized in a line chart from Pivot Table generated from Sheet1 in [Kickstarter_Challenge](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Kickstarter_Challenge.xlsx):
+***Theater Outcomes vs Launch*** visualized in line chart from Pivot Table generated from *Sheet1* in the Excel data set [Kickstarter_Challenge](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Kickstarter_Challenge.xlsx):
 
 ![Theater_Outcomes_vs_Launch](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
@@ -28,7 +26,7 @@ Difficulties encountered with analyzing Louise's requested data may be challengi
 
 ## Results
 
-To help Louise better understand campaigns from start to finish, the visualized outcomes of all the crowdfunding plays in graphical representations are generated through a pivot table so that she can benefit from additional visualtion of the data so she can see the outcomes of all categories. From analyzing the Kickstarter data with Theater Outcomes based on Launch Date, the line chart shows an increase in successful number of U.S. Theater crowdfudning campaigns in the months May and June.  
+To help Louise better understand campaigns from start to finish, the visualized outcomes of all the crowdfunding plays in graphical representations are generated through a pivot table so that she can benefit from additional visualtion of the data so she can see the outcomes of all categories. From analyzing the Kickstarter data with Theater Outcomes based on Launch Date, the line chart shows an increase in successful number of U.S. Theater crowdfudning campaigns in the months May. However, May, June, July, August, and October all had roughly the same number of failed campaigns launched.
 
 To closer look at how campaign length might be might be tied to its outcome.
 

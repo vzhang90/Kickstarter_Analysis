@@ -13,14 +13,15 @@ This project's main purpose is to analyze the Kickstarter Campaign data in the a
 
 ![Theater_Outcomes_vs_Launch](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
-1. A pivot table was initially created in the worksheet titled "Theater Outcoes by Launch Date"
+1. A pivot table created in the worksheet titled "Theater Outcoes by Launch Date" from "Sheet1"
     - filters on "Parent Category" and "Years"
       -  "Years" extracted from "Data Created Conversion" Column
     - "Parent Category" filtered on "theater" 
 2. Campaign outcomes sorted descending order so "successful" is first
 3. Line chart created showing number of successful, failed, or canceled projects by months
 
-*Difficulties encountered with analyzing Louise's requested data may be challenging in the conversion of the Unix Timestampes in columns Deadline and Launched_at columns in Sheet1 to a readable format.*
+*Difficulties encountered with analyzing Louise's requested data may be challenging in the conversion of the Unix Timestampes in columns Deadline and Launched_at columns in Sheet1 to a readable format
+    - Years() function in new column from data extracted from "Data Created Conversion" Column*
 
 ---
 ***The Outcomes vs Goals*** line chart showing the outcomes based on pledge goals:
@@ -38,9 +39,9 @@ This project's main purpose is to analyze the Kickstarter Campaign data in the a
 
 ## Results
 
-To help Louise better understand campaigns from start to finish, the raphical representations of the crowdfudning plays are generated through a pivot table so that she can benefit from additional visualtion of the data to see the outcomes of all categories. The graphical representation of the Pivot Table in "Theater Outcomes by Launch Date" worksheet give a closer look at how campaign length might be might be tied to its outcome. From analyzing the Kickstarter data with Theater Outcomes based on Launch Date, the line chart shows an increase in successful number of U.S. Theater crowdfudning campaigns in the months May. However, May, June, July, August, and October all had roughly the same number of failed campaigns launched.
+To help Louise better understand campaigns from start to finish, the graphical representations of crowdfudning plays are visualized from a pivot table so that she can benefit from additional visualtion of the data to see the outcomes of all categories. The graphical representation of the Pivot Table in "Theater Outcomes by Launch Date" worksheet give a closer look at how campaign length might be more specifically tied to its outcome. The *Theater Outcomes vs Launch* line chart shows an increase in successful number of U.S. Theater crowdfudning campaigns in the months May. However, May, June, July, August, and October all had roughly the same number of failed campaigns launched.
 
 
-Outcomes based on goals line chart shows a inverse relation between percentage successful and percentage failed. As the pledge goal amount becomes incrementally larger, the overall percentage successful decreases while the overall percentage failed increases.
+*Outcomes based on goals* line chart shows an inverse relation between percentage successful and percentage failed. As the pledge goal amount becomes incrementally larger, the overall percentage successful decreases while the overall percentage failed increases.
 
 Throughout analyzing this Kickstarter_Analysis.xlsx, this data set can be challenging in its lack of further trend analysis. With the two month surge in Successful Theater Outcomes by Launch Date, it would be highly recommended to further analyze the correlation between Outcomes and Years with T-tests. Visually, it would be highly recommended to included a correlation co-efficient and trend line associated with each legend. 

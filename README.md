@@ -6,7 +6,7 @@
 
 Louise is an up-and-coming playwright, whose recent first-ever crowdfunding campaign for her play *Fever* came close to reaching the $10,000 initially estimated goal. Despite not achieving her fundraising goal in a short amount of time, she wants to know how different campaigns fared in relation to their launch dates and their funding goals.  
 
-This project's main purpose is to analyze the data with Excel to organize, sort, and analyze crowdfunding data to determine whether there are specific factors that make a project's campaign successful.
+This project's main purpose is to analyze the Kickstarter Campaign data in Excel (https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Kickstarter_Challenge.xlsx). The crowdfunding data will be further organized, sorted, and analyzed to determine whether there are specific factors that make a project's campaign successful.
 
 ## Analysis & Challenges
 ***Theater Outcomes vs Launch*** visualized in a marked line chart from a Pivot Table generated from "Sheet1" in the Excel data set [Kickstarter_Challenge](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Kickstarter_Challenge.xlsx):

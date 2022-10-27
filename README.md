@@ -11,8 +11,7 @@ Louise is an up-and-coming playwright, whose recent first crowdfunding campaign 
 This project's main purpose is to analyze the data with Excel to organize, sort, and analyze crowdfunding data to determine whether there are specific factors that make a project's campaign successful.
 
 ## Analysis & Challenges
-To help Louise better understand campaigns from start to finish, 
-
+To help Louise better understand campaigns from start to finish, the outcomes of the Plays are visualized over a function of time below.
 ![Theater_Outcomes_vs_Launch](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 The Theater Outcomes vs Launch line chart showed the outcomes based on a function of time.

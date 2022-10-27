@@ -34,7 +34,7 @@ This project's main purpose is to analyze the Kickstarter Campaign data in the a
 3. Percentage calculated of successful, failed and calceled projects for each row from "Total Projects," "Number Successful," "Number Failed," and "Number Canceled" columns
 4. Line chart created visualizing the relationship between the goal-amount ranges on the x-axis and the percentage of successful, failed, or canceled projects on the y-axis.
 
->*Difficulties encountered with analyzing Louise's requested data may be challenging in the `COUNTIFS()` function. Refer here for help: (https://support.microsoft.com/en-us/office/countifs-function-dda3dc6e-f74e-4aee-88bc-aa8c2a866842?ui=en-us&rs=en-us&ad=us)*
+>*Difficulties encountered with analyzing Louise's requested data may be challenging in the `COUNTIFS()` function. Refer here for [help](https://support.microsoft.com/en-us/office/countifs-function-dda3dc6e-f74e-4aee-88bc-aa8c2a866842?ui=en-us&rs=en-us&ad=us)*
 
 ## Results
 

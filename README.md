@@ -13,16 +13,14 @@ This project's main purpose is to analyze the Kickstarter Campaign data in the a
 
 ![Theater_Outcomes_vs_Launch](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
-1. A pivot table created in the worksheet titled "Theater Outcoes by Launch Date" from "Sheet1"
+1. A pivot table created in the worksheet titled "Theater Outcomes by Launch Date" from "Sheet1"
     - filters on "Parent Category" and "Years"
       -  "Years" extracted from "Data Created Conversion" Column
     - "Parent Category" filtered on "theater" 
 2. Campaign outcomes sorted descending order so "successful" is first
 3. Line chart created showing number of successful, failed, or canceled projects by months
 
-*Difficulties encountered with analyzing Louise's requested data may be challenging in the conversion of the Unix Timestampes in columns Deadline and Launched_at columns in Sheet1 to a readable format
-    - Years() function in new column from data extracted from "Data Created Conversion" Column
-        - Unix timestamps*
+*Difficulties encountered with analyzing Louise's requested data may be challenging in the conversion of the Unix Timestampes in columns Deadline and Launched_at columns in Sheet1 to a readable format. The "Launch_At" and "Deadline" columns are represented in a Unix timstamp that much be converted into a readable format first before utilizing the Years() function.*
 
 ---
 ***The Outcomes vs Goals*** line chart showing the outcomes based on pledge goals:
@@ -36,7 +34,7 @@ This project's main purpose is to analyze the Kickstarter Campaign data in the a
 3. Percentage calculated of successful, failed and calceled projects for each row from "Total Projects," "Number Successful," "Number Failed," and "Number Canceled" columns
 4. Line chart created visualizing the relationship between the goal-amount ranges on the x-axis and the percentage of successful, failed, or canceled projects on the y-axis.
 
-*Difficulties encountered with analyzing Louise's requested data may be challenging in the COUNTIFS() function*
+*Difficulties encountered with analyzing Louise's requested data may be challenging in the COUNTIFS() function.*
 
 ## Results
 
@@ -45,4 +43,4 @@ To help Louise better understand campaigns from start to finish, the graphical r
 
 Outcomes based on goals line chart shows an inverse relation between percentage successful and percentage failed. As the pledge goal amount becomes incrementally larger, the overall percentage successful decreases while the overall percentage failed increases.
 
-Throughout analyzing this Kickstarter_Analysis.xlsx, this data set can be challenging in its lack of further trend analysis. With the two month surge in Successful Theater Outcomes by Launch Date, it would be highly recommended to further analyze the correlation between Outcomes and Years with T-tests. Visually, it would be highly recommended to included a correlation co-efficient and trend line associated with each legend. 
+Throughout analyzing this data set, it can be very limited in its lack of further trend analysis. With the two month surge in Successful Theater Outcomes by Launch Date, it would be highly recommended to further analyze the correlation between Outcomes and Years with T-tests. Visually, it would be highly recommended to included a correlation co-efficient and trend line associated with each legend. 

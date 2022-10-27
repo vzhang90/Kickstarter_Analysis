@@ -18,9 +18,7 @@ This project's main purpose is to analyze the data with Excel to organize, sort,
     - "Parent Category" filtered on "theater" 
 2. Campaign outcomes sorted descending order so "successful" is first
 3. Line chart created showing number of successful, failed, or canceled projects by months
-
-
-
+---
 ***The Outcomes vs Goals*** line chart visualized the data of the outcomes based on pledge goals:
 ![Outcomes_vs_Goals](https://github.com/vzhang90/Kickstarter_Analysis/blob/main/Outcomes_vs_Goals.png)
 
